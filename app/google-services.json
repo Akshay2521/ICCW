@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706815454141",
+    "project_id": "iccw-3754a",
+    "storage_bucket": "iccw-3754a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706815454141:android:9555d2c4404b59616980d4",
+        "android_client_info": {
+          "package_name": "com.example.iccw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQ8mqt-vrFzZUbj_RoLF7Y9Ji2gQNWJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
